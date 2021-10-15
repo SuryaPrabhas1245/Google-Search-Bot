@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Surya Prabhas (https://github.com/suryaprabhas1245) (@Suryaprabhas1245)
 
 import os
 import requests
@@ -22,12 +22,12 @@ I am a google search bot.
 
 > `I can search from google. Use me in inline.`
 
-Made by @FayasNoushad"""
+Made by @Suryaprabhas1245"""
 
 JOIN_BUTTON = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='⚙ Join Our Channel ⚙',
+        url='https://telegram.me/TeluguDubbedHorrorMovies2'
     )
 ]
 
@@ -88,7 +88,7 @@ def google(query):
     for info in informations:
         text = f"**Title:** `{info['title']}`"
         text += f"\n**Description:** `{info['description']}`"
-        text += f"\n\nMade by @FayasNoushad"
+        text += f"\n\nMade by @Suryaprabhas1245"
         results.append(
             {
                 "title": info['title'],
