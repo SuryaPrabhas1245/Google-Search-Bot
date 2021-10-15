@@ -6,7 +6,7 @@ A google search telegram bot.
 
 ```
 Made with Python3
-(C) [@suryaprabhas1245](https://t.me/suryaprabhas1245)
+(C) @Suryaprabhas1245
 Copyright permission under MIT License
 License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
 ```
