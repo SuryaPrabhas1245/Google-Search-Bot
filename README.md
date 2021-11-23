@@ -20,7 +20,7 @@ License -> https://github.com/SuryaPrabhas1245/Google-Search-Bot/blob/main/LICEN
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/SuryqPrabhas1245/Google-Search-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/SuryaPrabhas1245/Google-Search-Bot/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
