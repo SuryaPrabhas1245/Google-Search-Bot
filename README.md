@@ -8,7 +8,7 @@ A google search telegram bot.
 Made with Python3
 (C) @Suryaprabhas1245
 Copyright permission under MIT License
-License -> https://github.com/SuryPrabhas1245/Google-Search-Bot/blob/main/LICENSE
+License -> https://github.com/SuryaPrabhas1245/Google-Search-Bot/blob/main/LICENSE
 ```
 
 ---
