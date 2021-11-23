@@ -8,7 +8,7 @@ A google search telegram bot.
 Made with Python3
 (C) @Suryaprabhas1245
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
+License -> https://github.com/SuryPrabhas1245/Google-Search-Bot/blob/main/LICENSE
 ```
 
 ---
@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Google-Search-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/SuryPrabhas1245/Google-Search-Bot/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -32,7 +32,7 @@ License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
 <br/>
 
 ```sh
-git clone https://github.com/FayasNoushad/Google-Search-Bot/tree/main
+git clone https://github.com/suryaprabhas1245/Google-Search-Bot/tree/main
 cd Google-Search-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
